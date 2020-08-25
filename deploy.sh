@@ -1,5 +1,3 @@
-hello this file file contains deployment tips
-sgygyi
-sjhiyksl
+hello this file file contains deployment tipsl
 juii'
 
